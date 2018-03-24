@@ -1,62 +1,62 @@
 [
     {
         "id": 1,
-        "image": "public/images/dwight-1.png",
+        "image": "images/dwight-1.png",
         "clicked": false
     },
     {
         "id": 2,
-        "image": "public/images/dwight-2.png",
+        "image": "images/dwight-4.jpg",
         "clicked": false
     },
     {
         "id": 3,
-        "image": "public/images/dwight-3.png",
+        "image": "images/dwight-3.jpg",
         "clicked": false
     },
     {
         "id": 4,
-        "image": "public/images/michael-1.png",
+        "image": "images/michael-1.png",
         "clicked": false
     },
     {
         "id": 5,
-        "image": "public/images/michael-2.png",
+        "image": "images/michael-2.jpg",
         "clicked": false
     },
     {
         "id": 6,
-        "image": "public/images/michael-3.png",
+        "image": "images/michael-3.jpg",
         "clicked": false
     },
     {
         "id": 7,
-        "image": "public/images/jim-2.jpg",
+        "image": "images/jim-2.jpg",
         "clicked": false
     },
     {
         "id": 8,
-        "image": "public/images/jim-3.jpg",
+        "image": "images/jim-3.jpg",
         "clicked": false
     },
     {
         "id": 9,
-        "image": "public/images/jim-4.jpg",
+        "image": "images/jim-4.jpg",
         "clicked": false
     },
     {
         "id": 10,
-        "image": "public/images/pam-2.jpg",
+        "image": "images/pam-2.jpg",
         "clicked": false
     },
     {
         "id": 11,
-        "image": "public/images/pam-1.jpg",
+        "image": "images/pam-1.jpg",
         "clicked": false
     },
     {
         "id": 12,
-        "image": "public/images/pam-3.jpg",
+        "image": "images/pam-3.png",
         "clicked": false
     }
 ]

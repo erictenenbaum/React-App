@@ -10,10 +10,10 @@ const Nav = props => (
         </a>
       </div>
       <div className="text-center">
-        <h1>{props.message}</h1>
+        <h4>{props.message}</h4>
       </div> 
       <div className="text-right">
-        <h2>Score: {props.score} | High Score: {props.highScore}</h2>
+        <h5>Score: {props.score} | High Score: {props.highScore}</h5>
       </div>     
     </div>
   </nav>
